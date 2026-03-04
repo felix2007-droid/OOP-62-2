@@ -26,7 +26,7 @@ Kirito.lvl,
 Kirito.hp,
 Kirito.strength)
 
-Kirito.greet()
+print(Kirito.greet())
 Kirito.attack()
 Kirito.rest()
 
